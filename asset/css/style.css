@@ -26,6 +26,12 @@ header{
     background-color: rgb(12, 109, 254);
 }
 
+.clearfix{
+    content: "";
+    display: table;
+    clear: both;
+}
+
 .bg-lightblue{
     background-color: rgb(156, 196, 225);
 }
